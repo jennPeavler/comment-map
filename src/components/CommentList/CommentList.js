@@ -2,8 +2,8 @@ import React, { useContext } from "react";
 
 import { Comment } from '../Comment/Comment';
 
-import './CommentList.css';
 import { Context } from '../../state/store';
+import './CommentList.css';
 
 export const CommentList = () => {
   const { store } = useContext(Context);

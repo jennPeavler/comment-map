@@ -1,4 +1,4 @@
-import React, { useReducer, useState } from 'react';
+import React, { useReducer } from 'react';
 import { initialState, reducer, Context } from './state/store';
 
 import { Map } from './components/Map/Map';
