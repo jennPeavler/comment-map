@@ -1,0 +1,15 @@
+.comment {
+  border: 0.1rem solid darkgray;
+  border-radius: .2rem;
+  padding: 0.4rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  color: #274C77;
+  max-width: 15rem;
+}
+
+.comment--highlighted {
+  background: #A3CEF1;
+  border: 0.1rem solid #7161EF;
+  border-radius: .2rem;
+}

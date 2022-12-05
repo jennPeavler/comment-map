@@ -1,0 +1,12 @@
+.map {
+  border: 0.1rem solid darkgray;
+  border-radius: 0.4rem;
+  background: #e7ecef;
+}
+
+.new-comment {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+

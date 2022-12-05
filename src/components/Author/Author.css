@@ -1,0 +1,22 @@
+.author {
+  display: flex;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.initials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #7161EF;
+  color: white;
+  border-radius: 25rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  margin-right: 0.5rem;
+}
+
+.date {
+  color: #274C77;
+  font-size: 0.6rem;
+}
